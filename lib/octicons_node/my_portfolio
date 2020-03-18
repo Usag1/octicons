@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <tittle>Karin</tittle>
+  <link rel="stylesheet" href="stylesheet.cas">
+</head>
+<body>
+  <div class="header">
+  <div class="header-logo">Karin</div>
+  <div class="header-list">
+    <ul>
+    <li>About me</li>
+    <li>Contact</li>
+    </ul>
+  </div>
+  </div>
+
+
+  <div class="main">
+  <div class="copy-container">
+    <h1>HELLO WORLD<span>.</span>
+    <h2>Welcome to my world</h2>
+  </div>
+
+  <div class="contents">
+    <h3 class="section-title">About me</h3>
+      <div class="contents-item">
+      <img src="">
+      <p>Education</p>
+      </div>
+
+      <div class="contents-item">
+      <img src="">
+      <p>Work experience</p>
+      </div>
+
+      <div class="contents-item">
+      <img src="">
+      <p>Qualifications/Skills</p>
+      </div>
+
+      <div class="contents-item">
+      <img src="">
+      <p>My favorite things</p>
+      </div>
+  </div>
+
+      
+  <div class="contact-form">
+    <h3 class="section-title">Contact</h3>
+    <p>Your name*</p>
+    <input>
+    <p>E-mail*</p>
+    <input>
+    <p>Your inquiry*</p>
+    <textarea></textarea>
+    <p>*Mandatory field</p>
+    <input class="contact-submit" type="submit" value="send"/>
+  </div>
+  </div>
+
+  <div class="footer">
+  <div class="footer-logo">Karin</div>
+  <div class="footer-list">
+    <ul>
+    <li>About me</li>
+    <li>Contact</li>
+    </ul>
+  </div>
+  <div class="footer-icon">
+    <a href="">
+    <img src="" alt="Facebook">
+    </a>
+  </div>
+  <div class="footer-icon">
+    <a href="">
+    <img src="" alt="Linkdin">
+    </a>
+  </div>
+  <div class="footer-icon">
+    <a href="">
+    <img src="" alt=" Github">
+    </a>
+  </div>
+  </div>
+  </div>
+</body>
+</html>
+
